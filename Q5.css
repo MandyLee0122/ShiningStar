@@ -1,0 +1,28 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.bigbox{
+    width: 400px;
+    height: 150px;
+    background-color: grey;
+    color: white;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.box2bottom{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.box3top{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
